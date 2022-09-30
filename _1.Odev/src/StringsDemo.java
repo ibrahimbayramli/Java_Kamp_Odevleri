@@ -28,7 +28,7 @@ public class StringsDemo {
         System.out.println(mesaj.toLowerCase());
         System.out.println(mesaj.toUpperCase());
 
-        System.out.println("***************************************");
+        System.out.println("*************************************");
         System.out.println(mesaj1);
         System.out.println(mesaj1.trim());
 
