@@ -18,7 +18,7 @@ public class InMemoryLanguageRepository implements LanguageRepository {
         languages.add(new Language(1L,"Java"));
         languages.add(new Language(2L,"Python"));
         languages.add(new Language(3L,"GOLang"));
-        languages.add(new Language(4L,"Java Script"));
+        languages.add(new Language(4L,"JavaScript"));
     }
 
     @Override
